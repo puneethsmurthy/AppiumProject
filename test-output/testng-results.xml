@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="143115" started-at="2018-04-26T11:15:16Z" finished-at="2018-04-26T11:17:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="143115" started-at="2018-04-26T11:15:16Z" finished-at="2018-04-26T11:17:39Z">
+      <class name="com.komoot.library.Generic">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.komoot.library.Generic@371a67ec]" name="setUp" is-config="true" duration-ms="9406" started-at="2018-04-26T11:15:16Z" finished-at="2018-04-26T11:15:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testWithInvalidEmailId()[pri:0, instance:com.komoot.library.Generic@371a67ec]" name="testWithInvalidEmailId" duration-ms="29860" started-at="2018-04-26T11:15:25Z" description="Verify validation for Invalid Email ID" finished-at="2018-04-26T11:15:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithInvalidEmailId -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.komoot.library.Generic@371a67ec]" name="tearDown" is-config="true" duration-ms="471" started-at="2018-04-26T11:15:55Z" finished-at="2018-04-26T11:15:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.komoot.library.Generic@371a67ec]" name="setUp" is-config="true" duration-ms="5142" started-at="2018-04-26T11:15:55Z" finished-at="2018-04-26T11:16:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testForMandatoryFieldName()[pri:1, instance:com.komoot.library.Generic@371a67ec]" name="testForMandatoryFieldName" duration-ms="16450" started-at="2018-04-26T11:16:00Z" description="Verify Mandatory field validation for Name field" finished-at="2018-04-26T11:16:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForMandatoryFieldName -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.komoot.library.Generic@371a67ec]" name="tearDown" is-config="true" duration-ms="637" started-at="2018-04-26T11:16:17Z" finished-at="2018-04-26T11:16:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.komoot.library.Generic@371a67ec]" name="setUp" is-config="true" duration-ms="5040" started-at="2018-04-26T11:16:18Z" finished-at="2018-04-26T11:16:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testForMandatoryFieldEmail()[pri:2, instance:com.komoot.library.Generic@371a67ec]" name="testForMandatoryFieldEmail" duration-ms="18525" started-at="2018-04-26T11:16:23Z" description="Verify Mandatory field validation for Email field" finished-at="2018-04-26T11:16:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForMandatoryFieldEmail -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.komoot.library.Generic@371a67ec]" name="tearDown" is-config="true" duration-ms="381" started-at="2018-04-26T11:16:41Z" finished-at="2018-04-26T11:16:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.komoot.library.Generic@371a67ec]" name="setUp" is-config="true" duration-ms="5056" started-at="2018-04-26T11:16:42Z" finished-at="2018-04-26T11:16:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testForMandatoryFieldPassword()[pri:3, instance:com.komoot.library.Generic@371a67ec]" name="testForMandatoryFieldPassword" duration-ms="24760" started-at="2018-04-26T11:16:47Z" description="Verify Mandatory field validation for Password field" finished-at="2018-04-26T11:17:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForMandatoryFieldPassword -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.komoot.library.Generic@371a67ec]" name="tearDown" is-config="true" duration-ms="410" started-at="2018-04-26T11:17:11Z" finished-at="2018-04-26T11:17:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.komoot.library.Generic@371a67ec]" name="setUp" is-config="true" duration-ms="5076" started-at="2018-04-26T11:17:12Z" finished-at="2018-04-26T11:17:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testForValidSignUp()[pri:4, instance:com.komoot.library.Generic@371a67ec]" name="testForValidSignUp" duration-ms="21527" started-at="2018-04-26T11:17:17Z" description="Verify Sign up functionality by providing valid values" finished-at="2018-04-26T11:17:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForValidSignUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.komoot.library.Generic@371a67ec]" name="tearDown" is-config="true" duration-ms="342" started-at="2018-04-26T11:17:38Z" finished-at="2018-04-26T11:17:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.komoot.library.Generic -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
